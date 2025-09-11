@@ -1,4 +1,8 @@
-import java.util.Scanner; 
+import java.util.Scanner;
+
+/** This program finds the maximum of a set of three numbers input by the user
+ * @Rodrigo
+*/
 public class Maximum 
 {
     public static void main(String[] args) 
